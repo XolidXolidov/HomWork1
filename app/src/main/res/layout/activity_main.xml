@@ -80,7 +80,7 @@
         <Button
 
             android:id="@+id/btn_is_rollse"
-            android:layout_width="100dp"
+            android:layout_width="113dp"
             android:layout_height="40dp"
             android:layout_marginStart="20dp"
             android:background="@drawable/shape"
@@ -96,7 +96,7 @@
         android:layout_marginHorizontal="22dp"
         android:layout_marginTop="20dp"
         android:background="@drawable/shape"
-        android:text="@string/next"
+        android:text="NEXT"
         android:textColor="@color/white" />
 
 </androidx.appcompat.widget.LinearLayoutCompat>
